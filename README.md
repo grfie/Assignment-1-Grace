@@ -19,6 +19,8 @@
 <p>I spend a lot of my free time dancing, singing, and pretending I am on a Broadway stage playing every single cast member! I spend a lot of time listening to a musicals and trying to sing the main vocals, back up vocals, harmonies, and instruments all at the same time!</p>
 <p> I hope that gave you a bit of an insight into me! Follow the below links to find our more...</p>
 
+<h4><a href="pagetwo.html">Interest in IT</a></h4>  
+  
 <h1>Why am I interested in IT?</h1>
 <p>As someone that had very little to no idea of what IT is, aside from watching the IT Crowd of course, I shocked myself by applying for an Introduction to IT course. As a keen learner, I’m always looking for the next thing that I can learn, whether that be in my personal of professional life. As I was browsing courses on Open Universities Australia, I happened upon this Intro to IT course and it sparked a little light in my brain.
 What exactly is IT? How can I be so reliant on something I know so little about? Why does the whole business/home shut down when IT doesn’t perform properly?</p>

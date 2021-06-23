@@ -20,7 +20,7 @@
 <p> I hope that gave you a bit of an insight into me! Follow the below links to find our more...</p>
 
 <h4><a href="pagetwo.html">Interest in IT</a></h4>  
-<h4><a href="pagethree.html">Interest in IT</a></h4>  
+<h4><a href="pagethree.html">My Ideal IT Job</a></h4>  
 
 <h1>Personal Profile</h1>
 <p>I enjoyed reading the results of these tests. I'm very curious how answering some questions can create such an in depth analysis of my personality!</p>

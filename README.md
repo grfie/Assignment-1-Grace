@@ -10,7 +10,7 @@
 
 <h2>About Me</h2>
 
-<p><img src="C:\Users\admin.plaster\Desktop\Intro to IT\Re-Do/Picture of Me.jpg" alt="This is me" style="float:right;width:250px;height:500px">Hi, my name is Grace Field. Although, as there are many “Grace Field’s” in this world – seriously, I looked it up on Facebook and stopped counting after 50 “Grace Field’s”- at RMIT I’m identified by my student number, s3915295.</p>
+<p><img src="Picture of Me.jpg" alt="This is me" style="float:right;width:250px;height:500px">Hi, my name is Grace Field. Although, as there are many “Grace Field’s” in this world – seriously, I looked it up on Facebook and stopped counting after 50 “Grace Field’s”- at RMIT I’m identified by my student number, s3915295.</p>
 <p>If you ever need to contact me my student email is as follows:s3915295@student.rmit.edu.au</p>
 <p>I am the oldest of eight children, so it was quite interesting to see how that translated in my results of the personality tests that you will soon see.</p>
 <p>I’m mostly of a European descent (which part of Europe totally beats me), however the second most interesting thing about me – after having seven younger siblings of course – is that I’m one-quarter Indonesian. My grandfather, or Opa, came to Australia from Indonesia where he met my grandmother, or Oma.</p>
@@ -36,7 +36,7 @@ I wanted to understand how the systems I was using on a day to day basis worked!
 <p>I currently only have a Certificate III in Business, and I have very little experience in IT aside from this 12 week course I’m partaking in. In order to acquire the skills needed for this job, I would complete Bachelor in IT. This would allow for me to obtain the knowledge I need for this job and help me get experience to do this. Once I am able to start working in the IT world, I will have to start small and low in rank in order to build up my knowledge and experience.</p>
 <p>Please see below a screenshot and a link to a job listing that interested me:</p>
 
-<img src="C:\Users\admin.plaster\Desktop\Intro to IT\Re-Do/Ideal Job.png" alt="Ideal Job" style="width:650px;height:400px">
+<img src="Ideal Job.png" alt="Ideal Job" style="width:650px;height:400px">
 <p><a href="https://www.seek.com.au/job/52519191?type=standout#searchRequestToken=4e369e99-a371-4c86-8cf5-9ef17c4f7f45">Computer Systems Analyst</a></p>
 
 <h1>Personal Profile</h1>

@@ -22,7 +22,7 @@
 <h4><a href="pagetwo.html">Interest in IT</a></h4>  
 <h4><a href="pagethree.html">My Ideal IT Job</a></h4>  
 <h4><a href="pagefour.html">Personal Profile</a></h4>
-<h4><a href="pagefive.html">Project Idea</a></h4>  
+<h4><a href="pagefive.html">Project Idea</a></h4>
 
 </body>
 </html>
